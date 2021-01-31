@@ -1,0 +1,38 @@
+D:/Project/ex2/S1.v {1 {vlog -work work -stats=none D:/Project/ex2/S1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module S1
+
+Top level modules:
+	S1
+
+} {} {}} D:/Project/ex2/RB1.v {1 {vlog -work work -stats=none D:/Project/ex2/RB1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RB1
+
+Top level modules:
+	RB1
+
+} {} {}} D:/Project/ex2/S2.v {1 {vlog -work work -stats=none D:/Project/ex2/S2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module S2
+
+Top level modules:
+	S2
+
+} {} {}} D:/Project/ex2/RB2.v {1 {vlog -work work -stats=none D:/Project/ex2/RB2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RB2
+
+Top level modules:
+	RB2
+
+} {} {}} D:/Project/ex2/tb.v {1 {vlog -work work -stats=none D:/Project/ex2/tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RB1
+-- Compiling module RB2
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

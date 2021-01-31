@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Project/ex1
+vRB1
+Z0 !s110 1598606632
+!i10b 1
+!s100 ]Nh0`:5aT9oMhbbjz3TI<0
+I<TeI[ZEH]e1KQmn96=@CO1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/JIE/Desktop/Project/ex2
+w1268986450
+8RB1.v
+FRB1.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1598606632.000000
+Z5 !s107 RB2.v|RB1.v|D:/Project/ex2/tb.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex2/tb.v|
+!s101 -O0
+!i113 1
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@r@b1
+vRB2
+R0
+!i10b 1
+!s100 zM>S3G;1B6zb0?]Ni>C=K2
+I:Jc1<4Pkd=XzblgH;ZCa@1
+R1
+R2
+w1268986446
+8RB2.v
+FRB2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
+n@r@b2
+vS1
+R0
+!i10b 1
+!s100 6ibCB=d12K4`=6hl;Q7De1
+IlHN?IS9V3HoPNT8G=U@[00
+R1
+R2
+w1595049548
+8D:/Project/ex2/S1.v
+FD:/Project/ex2/S1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1598606631.000000
+!s107 D:/Project/ex2/S1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex2/S1.v|
+!s101 -O0
+!i113 1
+R7
+n@s1
+vS2
+R0
+!i10b 1
+!s100 Wg=QSR26;nBY?JFPlkVzE1
+IJT^ASP7z8AgWc_gSZ;I^G2
+R1
+R2
+w1595059228
+8D:/Project/ex2/S2.v
+FD:/Project/ex2/S2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Project/ex2/S2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex2/S2.v|
+!s101 -O0
+!i113 1
+R7
+n@s2
+vtb
+R0
+!i10b 1
+!s100 hTYf^2ZFQ4]7OLl8G^:UE3
+Il5?O?B6eZ97gD^N]zJfO[0
+R1
+R2
+w1595674240
+8D:/Project/ex2/tb.v
+FD:/Project/ex2/tb.v
+L0 22
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+!i113 1
+R7
